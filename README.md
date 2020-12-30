@@ -8,3 +8,11 @@ I would be carring out an Exploratory Data Analysis on the Data Science response
 
 You can download the dataset ffrom the link below and try something similar for your country. 
 https://www.kaggle.com/c/kaggle-survey-2020
+
+
+## Libraries
+The libraries used for the visualization
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
