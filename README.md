@@ -16,3 +16,8 @@ The libraries used for the visualization
 2. Pandas
 3. Matplotlib
 4. Seaborn
+
+## Datasets
+For analysis, we'll be using two datasets, one from 2019 and the other from 2020 to know if there's been progress or regression in the community
+2019 dataset can be downloaded here: https://www.kaggle.com/c/kaggle-survey-2019/data
+2020 dataset can be downloaded here: https://www.kaggle.com/c/kaggle-survey-2020
